@@ -45,5 +45,6 @@ p{
 }
 
 .izq{
+    display: flex;
     margin-right: auto;
 }
